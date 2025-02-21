@@ -1,5 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
-
+/*
+ *Changes
+ * Make
+ * 
+ */
 
 //Current Stock Value
 int currentSoda = 100;
